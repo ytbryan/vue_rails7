@@ -1,24 +1,13 @@
-# README
+# Run this example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+1. `git clone https://github.com/ytbryan/vue_rails7` 
+> cd into vue_rails7
 
-* Ruby version
+1a. Type `rails db:migrate` on terminal
 
-* System dependencies
+2. Type `rails server` on terminal
 
-* Configuration
+3. visit on your browser`http://localhost:3000/tasks`
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See https://twitter.com/ytbryan/status/1476344464050307075
